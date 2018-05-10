@@ -1,0 +1,8 @@
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Machinery\Machinery\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Machinery\Machinery\obj\Debug\Machinery.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Machinery\Machinery\obj\Debug\Machinery.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Machinery\Machinery\bin\Debug\Machinery.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Machinery\Machinery\bin\Debug\Machinery.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Machinery\Machinery\obj\Debug\Machinery.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Machinery\Machinery\obj\Debug\Machinery.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Machinery\Machinery\obj\Debug\Machinery.MainForm.resources
